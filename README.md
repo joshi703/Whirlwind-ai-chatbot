@@ -22,7 +22,7 @@ An intelligent, web-deployable AI chatbot built with Python and modern frontend 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/ai-chatbot.git
+   git clone https://github.com/joshi703/Whirlwind-ai-chatbot
    cd ai-chatbot
    ```
 
