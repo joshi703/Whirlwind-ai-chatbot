@@ -1,0 +1,15 @@
+{
+  "name": "whirlwind-ai-chat",
+  "version": "1.0.0",
+  "description": "WhirlWind AI Chatbot",
+  "main": "functions/chat.js",
+  "dependencies": {
+    "@netlify/functions": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "serverless-http": "^3.2.0"
+  },
+  "scripts": {
+    "start": "node functions/chat.js"
+  }
+}
